@@ -28,8 +28,8 @@ Data Flow: Document → Text Extraction → Chunking → Embedding Generation �
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd rag-research-assistant
+git clone https://github.com/ninetel/RAG.git
+cd RAG
 ```
 
 2. Install dependencies:
